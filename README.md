@@ -2,6 +2,9 @@
 
 Un programa bastante sencillo para crear numeros pseudoaleatorios usando el método del producto medio, con una interfaz web para mayor facilidad.
 
+![image](https://github.com/user-attachments/assets/926a679d-f521-402a-aab4-d04026de1de5)
+
+
 Si no quieres correrlo desde local, entra al siguiente enlace:
 
 [Hosteada en StreamLit Community Cloud](https://pseudoaleatorios-a01285539.streamlit.app/)
