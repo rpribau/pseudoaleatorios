@@ -1,6 +1,15 @@
 # pseudoaleatorios
 
-Un programa bastante sencillo para crear numeros pseudoaleatorios usando el método del producto medio.
+Un programa bastante sencillo para crear numeros pseudoaleatorios usando el método del producto medio, con una interfaz web para mayor facilidad.
+
+**Nota.** Lo intente seriamente hacerlo en C# pero la logica detras de tomar los numeros de $M.R(n)^2$ simplemente no salia como queria, por lo que termine estresandome y considerando que hay un proyecto que sacar, decidi hacerlo en Python.
+
+![image](https://github.com/user-attachments/assets/926a679d-f521-402a-aab4-d04026de1de5)
+
+
+Si no quieres correrlo desde local, entra al siguiente enlace:
+
+[Hosteada en StreamLit Community Cloud](https://pseudoaleatorios-a01285539.streamlit.app/)
 
 ## Pre-requisitos
 - Python 3.8, 3.9, 3.10, 3.11, o 3.12
@@ -13,3 +22,4 @@ Este ultimo es una libraria de Python para correr interfaces graficas en el nave
 Por ultimo solo queda correr el programa corriendo la siguiente linea desde la raiz del proyecto
 
 ```streamlit run app.py```
+
