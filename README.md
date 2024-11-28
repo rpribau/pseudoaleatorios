@@ -1,2 +1,15 @@
 # pseudoaleatorios
-Creador de numeros pseuodoaleatorios en Python
+
+Un programa bastante sencillo para crear numeros pseudoaleatorios usando el método del producto medio.
+
+## Pre-requisitos
+- Python 3.8, 3.9, 3.10, 3.11, o 3.12
+- Streamlit
+
+Este ultimo es una libraria de Python para correr interfaces graficas en el navegador. Para instalarla, corra el siguiente comando desde la raiz de este proyecto.
+
+```pip install -r requirements. txt```
+
+Por ultimo solo queda correr el programa corriendo la siguiente linea desde la raiz del proyecto
+
+```streamlit run app.py```
