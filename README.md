@@ -2,6 +2,8 @@
 
 Un programa bastante sencillo para crear numeros pseudoaleatorios usando el método del producto medio, con una interfaz web para mayor facilidad.
 
+**Nota.** Lo intente seriamente hacerlo en C# pero la logica detras de tomar los numeros de $M.R(n)^2$ simplemente no salia como queria, por lo que termine estresandome y considerando que hay un proyecto que sacar, decidi hacerlo en Python.
+
 ![image](https://github.com/user-attachments/assets/926a679d-f521-402a-aab4-d04026de1de5)
 
 
